@@ -43,7 +43,7 @@ The project is structured into the following main components:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/Shruthika-s/Applied-Data-Science-Capstone.git
+   git clone https://github.com/sujaynsv/Applied-Data-Science-Capstone.git
    
 
 2. Navigate to the project directory:
